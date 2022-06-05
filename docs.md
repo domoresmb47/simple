@@ -1,3 +1,3 @@
-This documentation describes how to use the **Atom** robotic toothbrush.
+This documentation describes how to use the **Atom** automated toothbrush.
 
 Note that this toothbrush is totally safe for use on children, adults, pets, or wildlife.
